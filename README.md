@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-git-master-john-san.vercel.app/api?username=john-san&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues,contribs">
+  <img height="50%" width="auto" src ="https://github-readme-stats-git-master-john-san.vercel.app/api?username=john-san&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=stars,issues,contribs">
   <img height="50%" width="auto" src ="https://github-readme-stats-git-master-john-san.vercel.app/api/top-langs/?username=john-san&layout=compact&hide_border=true&theme=gotham&langs_count=6">
 </p>
 
